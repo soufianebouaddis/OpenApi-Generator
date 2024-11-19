@@ -20,8 +20,8 @@ This project is an OpenAPI-based application generator built with Spring Boot. I
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/openapi-app-generator.git
-   cd openapi-app-generator
+   git clone https://github.com/soufianebouaddis/OpenApi-Generator.git
+   cd OpenApi-Generator
 2. Clean install:
    ```bash
    mvn clean install
